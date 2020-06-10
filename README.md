@@ -39,3 +39,8 @@ $ ./ojichat.exe
 * Go の関数は複数の値を返せるが、C では構造体になるっぽい
     * チャットメッセージとエラーを一緒に返すと扱いにくそうなのでやめた
     * 代わりに、エラーの場合は空文字を返している
+
+## 関連リポジトリ
+
+* [dart-ffi_cgo_ojichat](https://github.com/kaboc/dart-ffi_cgo_ojichat)
+    * 作ったライブラリを Dart で利用するプロジェクト
